@@ -1,0 +1,20 @@
+{
+  "modId" : 372,
+  "modName" : "foolpixel",
+  "itemDrop" : "foolpixel",
+  "description" : "Fool's Pixel Ore.",
+  "health" : 1,
+  "harvestLevel" : 1,
+  "breaksWithTile" : true,
+
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "pixel.png",
+    "variants" : 17,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}
