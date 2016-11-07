@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/wildernessTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.5,
+      "item": [
+        "foolpixel",
+        10
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/wildernessTreasure/0/1/pool/-",
+    "value": {
+      "weight": 1,
+      "item": "decapixel"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/wildernessTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "hectopixel"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/wildernessTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "voxel"
+    }
+  }
+]
