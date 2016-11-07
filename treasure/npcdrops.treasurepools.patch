@@ -1,0 +1,5 @@
+[
+{"op":"add","path":"/castlelordtreasure/0/1/pool/-","value":{"weight":0.875,"item":"decapixel"}},
+{"op":"add","path":"/castlelordtreasure/0/1/pool/-","value":{"weight":0.088,"item":"hectopixel"}},
+{"op":"add","path":"/castlelordtreasure/0/1/pool/-","value":{"weight":0.009,"item":"voxel"}}
+]
