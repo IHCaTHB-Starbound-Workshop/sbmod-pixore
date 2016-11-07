@@ -1,0 +1,20 @@
+{
+  "modId" : 369,
+  "modName" : "decapixel",
+  "itemDrop" : "decapixel",
+  "description" : "Decapixel Ore.",
+  "health" : 2,
+  "harvestLevel" : 2,
+  "breaksWithTile" : true,
+
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "decapixel.png",
+    "variants" : 17,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

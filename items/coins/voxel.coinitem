@@ -1,0 +1,14 @@
+{
+  "itemName" : "voxel",
+  "rarity" : "Rare",
+  "inventoryIcon" : "voxel.png",
+  "description" : "Naturally occurring voxel.",
+  "shortdescription" : "Voxel",
+  "value" : 1000,
+  "pickupSoundsSmall" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "pickupSoundsMedium" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "smallStackLimit" : 1,
+  "mediumStackLimit" : 1,
+  "maxStack" : 1
+}

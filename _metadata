@@ -1,0 +1,17 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "^#5aa9d6;Your momma always used to say money didnt grow on trees^reset;
+
+..well she was right.
+
+Adds mine-able pixels to random generation. Rarer varieties yield more pixels.
+
+Art entirely from vanilla assets.
+
+For more, click the MEGATHREAD link from the steam page.",
+  "friendlyName" : "Pixel Ore",
+  "includes" : [],
+  "name" : "PIXORE.IHC",
+  "requires" : [],
+  "version" : "0.1"
+}

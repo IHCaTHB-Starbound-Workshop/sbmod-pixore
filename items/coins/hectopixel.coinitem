@@ -1,0 +1,14 @@
+{
+  "itemName" : "hectopixel",
+  "rarity" : "Rare",
+  "inventoryIcon" : "hectopixel.png",
+  "description" : "Pixels are a universal currency. They can also be used for 3D Printing.",
+  "shortdescription" : "Hectopixel",
+  "value" : 100,
+  "pickupSoundsSmall" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "pickupSoundsMedium" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "smallStackLimit" : 1,
+  "mediumStackLimit" : 1,
+  "maxStack" : 1
+}
