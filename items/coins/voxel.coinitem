@@ -1,5 +1,6 @@
 {
   "itemName" : "voxel",
+  "price" : 1000,
   "rarity" : "Rare",
   "inventoryIcon" : "voxel.png",
   "description" : "Naturally occurring voxel.",

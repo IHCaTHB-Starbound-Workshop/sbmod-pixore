@@ -1,5 +1,6 @@
 {
   "itemName" : "hectopixel",
+  "price" : 100,
   "rarity" : "Rare",
   "inventoryIcon" : "hectopixel.png",
   "description" : "Pixels are a universal currency. They can also be used for 3D Printing.",
