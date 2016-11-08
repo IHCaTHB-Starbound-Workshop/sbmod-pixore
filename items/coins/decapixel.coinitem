@@ -8,7 +8,7 @@
   "value" : 10,
   "pickupSoundsSmall" : [ "/sfx/objects/coinstack_medium1.ogg", "/sfx/objects/coinstack_medium2.ogg" ],
   "pickupSoundsMedium" : [ "/sfx/objects/coinstack_medium1.ogg", "/sfx/objects/coinstack_medium2.ogg" ],
-  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_medium1.ogg", "/sfx/objects/coinstack_medium2.ogg" ],
   "smallStackLimit" : 1,
   "mediumStackLimit" : 1,
   "maxStack" : 1

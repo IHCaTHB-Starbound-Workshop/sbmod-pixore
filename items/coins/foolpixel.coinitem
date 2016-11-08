@@ -5,9 +5,9 @@
   "description" : "Pixels are a universal currency. They can also be used for 3D Printing.",
   "shortdescription" : "Fool's Pixel",
   "value" : 0,
-  "pickupSoundsSmall" : [ "/sfx/objects/coinstack_small1.ogg", "/sfx/objects/coinstack_small2.ogg", "/sfx/objects/coinstack_small3.ogg" ],
-  "pickupSoundsMedium" : [ "/sfx/objects/coinstack_medium1.ogg", "/sfx/objects/coinstack_medium2.ogg" ],
-  "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "pickupSoundsSmall" : [ "/sfx/interface/item_pickup.ogg" ],
+  "pickupSoundsMedium" : [ "/sfx/interface/item_pickup.ogg" ],
+  "pickupSoundsLarge" : [ "/sfx/interface/item_pickup.ogg" ],
   "smallStackLimit" : 999,
   "mediumStackLimit" : 4999,
   "maxStack" : 16777216
