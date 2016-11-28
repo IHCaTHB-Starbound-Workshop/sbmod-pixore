@@ -10,5 +10,6 @@
   "pickupSoundsLarge" : [ "/sfx/interface/item_pickup.ogg" ],
   "smallStackLimit" : 999,
   "mediumStackLimit" : 4999,
-  "maxStack" : 16777216
+  "maxStack" : 16777216,
+  "radioMessagesOnPickup" : [ "pickupfoolcoin" ]
 }

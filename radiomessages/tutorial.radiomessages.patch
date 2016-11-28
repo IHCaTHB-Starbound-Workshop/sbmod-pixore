@@ -1,0 +1,35 @@
+[
+  {
+    "op": "add",
+    "path": "/pickupdecacoin",
+    "value": {
+      "type": "tutorial",
+      "text": "You have found a decapixel! It's valued at 10 pixels and will go directly into your wallet with the rest of your pixels."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickuphectocoin",
+    "value": {
+      "type": "tutorial",
+      "text": "You have found a hectopixel! It's valued at 100 pixels and will go directly into your wallet with the rest of your pixels."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickupvoxelcoin",
+    "value": {
+      "type": "tutorial",
+      "text": "You have found a naturally occuring voxel! It's valued at 1000 pixels and will go directly into your wallet with the rest of your pixels."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickupfoolcoin",
+    "value": {
+      "type": "tutorial",
+      "text": "Oh the cruelty! You thought you were picking up a shiny pixel, but its just a fool's pixel! It is literally worthless and will just disappear on contact with your wallet.",
+      "portraitImage" : "refuse.<frame>"
+    }
+  }
+]

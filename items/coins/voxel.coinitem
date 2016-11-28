@@ -11,5 +11,6 @@
   "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
   "smallStackLimit" : 1,
   "mediumStackLimit" : 1,
-  "maxStack" : 1
+  "maxStack" : 1,
+  "radioMessagesOnPickup" : [ "pickupvoxelcoin" ]
 }
