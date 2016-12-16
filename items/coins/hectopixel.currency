@@ -5,6 +5,7 @@
   "inventoryIcon" : "hectopixel.png",
   "description" : "Pixels are a universal currency. They can also be used for 3D Printing.",
   "shortdescription" : "Hectopixel",
+  "currency" : "money",
   "value" : 100,
   "pickupSoundsSmall" : [ "/sfx/objects/coinstack_large.ogg" ],
   "pickupSoundsMedium" : [ "/sfx/objects/coinstack_large.ogg" ],

@@ -5,6 +5,7 @@
   "inventoryIcon" : "voxel.png",
   "description" : "Naturally occurring voxel.",
   "shortdescription" : "Voxel",
+  "currency" : "money",
   "value" : 1000,
   "pickupSoundsSmall" : [ "/sfx/objects/coinstack_large.ogg" ],
   "pickupSoundsMedium" : [ "/sfx/objects/coinstack_large.ogg" ],

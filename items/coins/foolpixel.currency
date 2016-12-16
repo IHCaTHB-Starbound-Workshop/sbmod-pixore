@@ -4,6 +4,7 @@
   "inventoryIcon" : "foolpixel.png",
   "description" : "Pixels are a universal currency. They can also be used for 3D Printing.",
   "shortdescription" : "Fool's Pixel",
+  "currency" : "money",
   "value" : 0,
   "pickupSoundsSmall" : [ "/sfx/interface/item_pickup.ogg" ],
   "pickupSoundsMedium" : [ "/sfx/interface/item_pickup.ogg" ],
